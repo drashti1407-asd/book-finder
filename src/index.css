@@ -1,0 +1,41 @@
+
+/* GLOBAL RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* PAGE SETTINGS */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f8f5ff;
+  color: #51436f;
+  min-width: 320px;
+}
+
+/* FORM ELEMENTS */
+
+button,
+input {
+  font: inherit;
+}
+
+/* LINKS */
+
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* TEXT SELECTION */
+
+::selection {
+  background: #b9a5e8;
+  color: #51436f;
+}
