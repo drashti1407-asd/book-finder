@@ -43,15 +43,6 @@ All endpoints, parameters, and response fields were
 verified against the official documentation.
 
 
-## Application Testing Results
-
-| No. | Test Case | Expected Result | Status |
-|---|---|---|---|
-| 1 | Search Harry Potter | Matching books displayed | Pending |
-| 2 | Search The Alchemist | Different results displayed | Pending |
-| 3 | Empty search | Validation message displayed | Pending |
-| 4 | Invalid book title | No results message displayed | Pending |
-| 5 | API failure | Error message displayed | Pending |
 
 ## Final Testing Conclusion
 
